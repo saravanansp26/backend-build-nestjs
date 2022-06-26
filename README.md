@@ -71,3 +71,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+## Reference Youtube
+
+- Pragmatic Reviews - [Building a CI/CD Pipeline for a Nest.js app with AWS Elastic Beanstalk and CodePipeline](https://www.youtube.com/watch?v=kgDx3W-qoos)
+
+## Errors to consider
+
+How to view Log files
+
+Procfile name is casesensitive
