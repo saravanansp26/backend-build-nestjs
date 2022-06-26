@@ -82,3 +82,4 @@ Nest is [MIT licensed](LICENSE).
 How to view Log files
 
 Procfile name is casesensitive
+ - Documentation - [docs.aws.amazon.com](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/nodejs-configuration-procfile.html)
